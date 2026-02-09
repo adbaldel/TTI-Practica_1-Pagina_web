@@ -1,10 +1,10 @@
 +++
-title = 'My First Post'
+title = 'Post de ejemplo'
 date = 2024-01-14T07:07:07+01:00
 draft = false
 +++
-## Introduction
+## Introducción
 
-This is **bold** text, and this is *emphasized* text.
+Esto es texto en **negrita**, y esto es texto *enfatizado*.
 
-Visit the [Hugo](https://gohugo.io) website!
+Visita la página web [Hugo](https://gohugo.io)!
