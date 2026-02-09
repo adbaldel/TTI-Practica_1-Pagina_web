@@ -1,4 +1,4 @@
 baseURL = 'https://adbaldel.github.io/TTI-Practica_1-Pagina_web/'
 languageCode = 'es-es'
-title = 'My New Hugo Site'
+title = 'Página web Hugo para TTI'
 theme = 'ananke'
