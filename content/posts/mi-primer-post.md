@@ -26,7 +26,7 @@ git init
 git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
 echo "theme = 'ananke'" >> hugo.toml
 hugo server
-```,
+```
 a subirla a Github:
 ```
 git remote add origin https://github.com/adbalde1/TTI-Practica_1-Pagina_web.git
